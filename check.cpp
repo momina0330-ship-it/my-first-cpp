@@ -5,9 +5,9 @@ int main() {
     int marks = 80;
 
     if (marks >= 50) {
-        cout << "Pass ho gayi";
+        cout << "Passed";
     } else {
-        cout << "Fail ho gayi";
+        cout << "Failed";
     }
     return 0;
 }
