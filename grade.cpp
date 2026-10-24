@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
     int number;
-    cout << "Apne number likho: ";
+    cout << "enter your number: ";
     cin >> number;
 
     if (number >= 90) {
